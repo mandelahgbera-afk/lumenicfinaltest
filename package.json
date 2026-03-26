@@ -1,0 +1,15 @@
+{
+  "name": "lumenicdata-careers",
+  "version": "2.0.0",
+  "description": "LumenicData Careers - Production-ready application form",
+  "main": "api/submit-application.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "form-data": "^4.0.0"
+  },
+  "scripts": {
+    "test-bot": "node test-bot.js"
+  }
+}
